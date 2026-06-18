@@ -1,9 +1,8 @@
 -- CopyEnglishName: ItemDatabase.lua
-
 -- 缓存
-local nameCache = {}          -- 物品ID => 英文名缓存
-local chineseNameCache = {}   -- 中文名 => 物品ID缓存
-local isDataLoaded = false    -- 数据子插件是否加载成功
+local nameCache = {} -- 物品ID => 英文名缓存
+local chineseNameCache = {} -- 中文名 => 物品ID缓存
+local isDataLoaded = false -- 数据子插件是否加载成功
 
 -- 工具函数：安全调用 C_AddOns.GetAddOnInfo
 local function safeGetAddOnInfo(addonName)
@@ -41,14 +40,11 @@ local function loadDataAddon()
     if isDataLoaded then
         return true
     end
-
     local name, title, notes, loadable, reason = safeGetAddOnInfo("CopyEnglishName_Data")
-
     if not loadable and reason ~= "DEMAND_LOADED" then
         print("|cffff0000错误: 子插件 CopyEnglishName_Data 当前不可加载，原因:|r " .. (reason or "未知"))
         return false
     end
-
     local loaded, loadReason
     if C_AddOns and C_AddOns.LoadAddOn then
         loaded, loadReason = C_AddOns.LoadAddOn("CopyEnglishName_Data")
@@ -56,12 +52,10 @@ local function loadDataAddon()
         print("|cffff0000错误: 当前环境不支持 C_AddOns.LoadAddOn。|r")
         return false
     end
-
     if not loaded then
         print("|cffff0000错误: 加载数据子插件失败，原因:|r " .. (type(loadReason) == "string" and loadReason or tostring(loadReason)))
         return false
     end
-
     isDataLoaded = true
     print("|cff00ff00数据子插件 CopyEnglishName_Data 已成功加载。|r")
     return true
@@ -79,6 +73,14 @@ local function SafeToString(value)
 end
 
 -- 查询物品英文名（通过ID）
+local function getLoadedChunkCount()
+    local count = 0
+    while _G["ItemNames_" .. (count + 1)] do
+        count = count + 1
+    end
+    return count
+end
+
 local function getItemName(id)
     id = SafeToString(id)
     if nameCache[id] then
@@ -88,7 +90,8 @@ local function getItemName(id)
         nameCache[id] = "未知物品"
         return "未知物品"
     end
-    for i = 1, 33 do
+    local chunkCount = getLoadedChunkCount()
+    for i = 1, chunkCount do
         local chunkTable = _G["ItemNames_" .. i]
         if chunkTable and chunkTable[id] then
             local nameData = chunkTable[id]
@@ -118,7 +121,8 @@ local function getItemIdByChineseName(chineseName)
     if not loadDataAddon() then
         return nil, "未找到物品"
     end
-    for i = 1, 33 do
+    local chunkCount = getLoadedChunkCount()
+    for i = 1, chunkCount do
         local chunkTable = _G["ItemNames_" .. i]
         if chunkTable then
             for id, data in pairs(chunkTable) do
@@ -171,10 +175,8 @@ SlashCmdList["COPYEN"] = function(msg)
         print("用法: /en [itemlink] 或 /en <itemId> 或 /en <中文名称>")
         return
     end
-
     msg = strtrim(msg)
     print("收到命令 /en " .. msg)
-
     local itemId = msg:match("|Hitem:(%d+):") or msg:match("item:(%d+)") or msg:match("^(%d+)$")
     if itemId then
         print("解析到物品ID: " .. itemId)
@@ -186,7 +188,6 @@ SlashCmdList["COPYEN"] = function(msg)
         end
         return
     end
-
     print("尝试按中文名查询: " .. msg)
     local id, name = getItemIdByChineseName(msg)
     if id and name and name ~= "未知物品" then
@@ -201,13 +202,15 @@ SLASH_COPYDEBUG1 = "/debugtables"
 SlashCmdList["COPYDEBUG"] = function()
     local name, title, notes, loadable, reason = safeGetAddOnInfo("CopyEnglishName_Data")
     print("子插件 CopyEnglishName_Data 状态：")
-    print("  名称: " .. (name or "未知"))
-    print("  启用状态: " .. (loadable and "是" or "否") .. (reason and " (原因:" .. reason .. ")" or ""))
-    print("  已加载: " .. (isDataLoaded and "是" or "否"))
+    print(" 名称: " .. (name or "未知"))
+    print(" 启用状态: " .. (loadable and "是" or "否") .. (reason and " (原因:" .. reason .. ")" or ""))
+    print(" 已加载: " .. (isDataLoaded and "是" or "否"))
     if isDataLoaded then
-        for i = 1, 33 do
+        local chunkCount = getLoadedChunkCount()
+        print(" Data chunk count: " .. chunkCount)
+        for i = 1, chunkCount do
             local tableName = "ItemNames_" .. i
-            print("  表 " .. tableName .. ": " .. (_G[tableName] and "已加载" or "未加载"))
+            print(" 表 " .. tableName .. ": " .. (_G[tableName] and "已加载" or "未加载"))
         end
     end
 end
