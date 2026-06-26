@@ -2646,7 +2646,7 @@ ItemNames_7 = {
     ["45192"] = {en = "Aspirant's Seal", zh = "候选者的徽记"},
     ["45193"] = {en = "Insurmountable Fervor", zh = "无尽的热情"},
     ["45194"] = {en = "Tangled Fishing Line", zh = "纠结的鱼线"},
-    ["45195"] = {en = "Empty Rum Bottle", zh = "空的郎姆酒瓶"},
+    ["45195"] = {en = "Empty Rum Bottle", zh = "空的朗姆酒瓶"},
     ["45196"] = {en = "Tattered Cloth", zh = "破布"},
     ["45197"] = {en = "Tree Branch", zh = "树枝"},
     ["45198"] = {en = "Weeds", zh = "水草"},

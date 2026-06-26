@@ -1,5 +1,3 @@
-> 🌐 **Homepage**: <https://liuxl.com.cn/CopyEnglishName/>
-
 # CopyEnglishName
 
 CopyEnglishName is a World of Warcraft addon for looking up and copying the English name of an item.

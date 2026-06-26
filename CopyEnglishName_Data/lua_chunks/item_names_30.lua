@@ -1,5 +1,4 @@
 ItemNames_30 = {
-    ["214893"] = {en = "White Tiger Handguards", zh = "白虎手铠"},
     ["214894"] = {en = "White Tiger Greatbelt", zh = "白虎重型腰带"},
     ["214895"] = {en = "White Tiger Spaulders", zh = "白虎肩甲"},
     ["214896"] = {en = "White Tiger Legplates", zh = "白虎腿铠"},
@@ -2726,7 +2725,7 @@ ItemNames_30 = {
     ["218476"] = {en = "Forged Gladiator's Cloak", zh = "炉铸角斗士的斗篷"},
     ["218477"] = {en = "Forged Gladiator's Drape", zh = "炉铸角斗士的披风"},
     ["218478"] = {en = "Forged Gladiator's Shawl", zh = "炉铸角斗士的披巾"},
-    ["218479"] = {en = "Forged Gladiator's Silk Robes", zh = "炉铸角斗士的丝质长袍"},
+    ["218479"] = {en = "Forged Gladiator's Silk Robe", zh = "炉铸角斗士的丝质长袍"},
     ["218480"] = {en = "Forged Gladiator's Silk Vestments", zh = "炉铸角斗士的丝质法衣"},
     ["218481"] = {en = "Forged Gladiator's Silk Slippers", zh = "炉铸角斗士的丝质布鞋"},
     ["218482"] = {en = "Forged Gladiator's Silk Treads", zh = "炉铸角斗士的丝质便鞋"},
@@ -4999,4 +4998,5 @@ ItemNames_30 = {
     ["222884"] = {en = "Weavercloth Embroidery Thread", zh = "梭绸刺绣线"},
     ["222885"] = {en = "Preserving Embroidery Thread", zh = "耐久刺绣线"},
     ["222886"] = {en = "Preserving Embroidery Thread", zh = "耐久刺绣线"},
+    ["222887"] = {en = "Preserving Embroidery Thread", zh = "耐久刺绣线"},
 }

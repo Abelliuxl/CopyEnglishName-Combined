@@ -1,4 +1,5 @@
 ItemNames_27 = {
+    ["191625"] = {en = "Lavaforge Monolith", zh = "熔铸锤杖"},
     ["191626"] = {en = "Lavaforge Hacker", zh = "熔铸劈斧"},
     ["191627"] = {en = "Fireplume Blouse", zh = "火羽上衣"},
     ["191628"] = {en = "Fireplume Tailwinds", zh = "火羽腿饰"},
@@ -666,6 +667,7 @@ ItemNames_27 = {
     ["192774"] = {en = "Coralscale Salamanther", zh = "珊鳞蝾螈"},
     ["192775"] = {en = "Stormhide Salamanther", zh = "雷革蝾螈"},
     ["192777"] = {en = "Magmashell", zh = "岩浆之壳"},
+    ["192778"] = {en = "Liquid Hot Magma Slug", zh = "炽热岩浆蛞蝓"},
     ["192779"] = {en = "Seething Slug", zh = "沸涌蛞蝓"},
     ["192783"] = {en = "Nokhud Vanguard Orders", zh = "诺库德先锋命令"},
     ["192784"] = {en = "Shellack", zh = "谢拉克"},
@@ -891,7 +893,7 @@ ItemNames_27 = {
     ["193064"] = {en = "Smoke Diffuser", zh = "烟雾散播器"},
     ["193066"] = {en = "Chestnut", zh = "栗子"},
     ["193067"] = {en = "Acadia's Tools [DNT/Unused]", zh = "Acadia's Tools [DNT/Unused]"},
-    ["193068"] = {en = "Time-Lost Treeflitter", zh = "迷时掠树者"},
+    ["193068"] = {en = "Amber Treeflitter", zh = "琥珀掠树者"},
     ["193069"] = {en = "Climber's Pack", zh = "攀登者的包裹"},
     ["193071"] = {en = "Pistachio", zh = "开心果"},
     ["193201"] = {en = "Key Framing", zh = "钥匙框架"},
@@ -4997,6 +4999,4 @@ ItemNames_27 = {
     ["200781"] = {en = "Rejuvenating Ashes", zh = "复苏灰烬"},
     ["200782"] = {en = "Bejeweled Horseshoes", zh = "珠光马蹄铁"},
     ["200783"] = {en = "Adorned Ohunan Jess", zh = "带装饰的欧胡纳脚带"},
-    ["200784"] = {en = "Hunting Trophies", zh = "狩猎战利品"},
-    ["200785"] = {en = "Argali Wool Rug", zh = "绒羊毛毯"},
 }

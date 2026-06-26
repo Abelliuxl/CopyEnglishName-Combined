@@ -3873,7 +3873,7 @@ ItemNames_15 = {
     ["115523"] = {en = "Blackhand's Severed Arm", zh = "黑手的断臂"},
     ["115524"] = {en = "Taladite Crystal", zh = "塔拉迪特水晶"},
     ["115525"] = {en = "Scary Ogre Face", zh = "恐怖食人魔面具"},
-    ["115526"] = {en = "Taladite Recrystalizer", zh = "塔拉迪特结晶恢复器"},
+    ["115526"] = {en = "Taladite Recrystallizer", zh = "塔拉迪特结晶恢复器"},
     ["115527"] = {en = "Unstable Taladite Amplifier", zh = "不稳定的塔拉迪特水晶增幅器"},
     ["115529"] = {en = "Unstable Greater Taladite Amplifier", zh = "不稳定的强效塔拉迪特水晶增幅器"},
     ["115530"] = {en = "N.U.K.U.L.A.R. Target Painter", zh = "N.U.K.U.L.A.R.目标标定器"},

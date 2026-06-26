@@ -1,4 +1,5 @@
 ItemNames_22 = {
+    ["156258"] = {en = "Armbands of Bedlam", zh = "疯乱臂甲"},
     ["156260"] = {en = "Chestplate of Vicious Potency", zh = "堕落力量胸铠"},
     ["156261"] = {en = "Treacherous Shoulderpads", zh = "叛逆肩垫"},
     ["156262"] = {en = "Gloves of Taut Grip", zh = "钳制手套"},
@@ -2039,7 +2040,7 @@ ItemNames_22 = {
     ["159336"] = {en = "Mercenary Miner's Boots", zh = "雇佣矿工皮靴"},
     ["159337"] = {en = "Grips of Electrified Defense", zh = "闪电防御之握"},
     ["159338"] = {en = "Pustule Bearer's Pants", zh = "脓疱使者长裤"},
-    ["159339"] = {en = "Gorak Tul's Mantle", zh = "高莱克·图尔的披肩"},
+    ["159339"] = {en = "Gorak Tul's Mantle", zh = "图尔，高莱克的披肩"},
     ["159340"] = {en = "Bracers of Dreadful Maladies", zh = "恶疾护腕"},
     ["159341"] = {en = "Hound-Jowl Waistband", zh = "犬颌护腰"},
     ["159343"] = {en = "Spark Dampening Footpads", zh = "灭火足垫"},
@@ -4998,5 +4999,4 @@ ItemNames_22 = {
     ["163231"] = {en = "Felbound Footwraps", zh = "邪缚裹足"},
     ["163232"] = {en = "Felbound Handwraps", zh = "邪缚裹手"},
     ["163233"] = {en = "Felbound Shroud", zh = "邪缚裹布"},
-    ["163234"] = {en = "Felbound Shroud", zh = "邪缚裹布"},
 }

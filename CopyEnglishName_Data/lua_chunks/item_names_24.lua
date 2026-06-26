@@ -1,4 +1,5 @@
 ItemNames_24 = {
+    ["170002"] = {en = "Split Differential", zh = "分叉的差速齿轮"},
     ["170003"] = {en = "Grinding Gearbox", zh = "刺耳的变速箱"},
     ["170004"] = {en = "Cracked Turbo", zh = "裂口的涡轮"},
     ["170005"] = {en = "Fractured Pearl", zh = "破碎的珍珠"},
@@ -1162,7 +1163,7 @@ ItemNames_24 = {
     ["171560"] = {en = "Archon Glaive", zh = "执政长刀"},
     ["171561"] = {en = "Gloves of Bitter Reprisal", zh = "雪恨手套"},
     ["171562"] = {en = "Gloves of the Lifeless Touch", zh = "亡者之触手套"},
-    ["171563"] = {en = "Fal'inrush, Defender of Quel'thalas", zh = "法林鲁什，奎尔萨拉斯护卫者"},
+    ["171563"] = {en = "Fal'inrush, Defender of Quel'Thalas", zh = "法林鲁什，奎尔萨拉斯护卫者"},
     ["171564"] = {en = "Mithrios, Bronzebeard's Legacy", zh = "米瑟里奥斯，铜须的遗产"},
     ["171565"] = {en = "Havoc's Call, Blade of Lordaeron Kings", zh = "浩劫的召唤，洛丹伦王权之斧"},
     ["171566"] = {en = "Glorenzelg, High-Blade of the Silver Hand", zh = "格罗萨格，白银之手骑士团圣剑"},
@@ -4998,5 +4999,4 @@ ItemNames_24 = {
     ["177613"] = {en = "Felsoul Wristwraps", zh = "邪魂裹腕"},
     ["177615"] = {en = "Oathsworn Sabatons", zh = "誓约者战靴"},
     ["177616"] = {en = "Oathsworn Gauntlets", zh = "誓约者手甲"},
-    ["177618"] = {en = "Oathsworn Legplates", zh = "誓约者腿甲"},
 }

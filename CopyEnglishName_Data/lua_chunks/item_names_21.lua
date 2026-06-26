@@ -1,4 +1,5 @@
 ItemNames_21 = {
+    ["149572"] = {en = "Fierce Combatant's Dragonhide Spaulders", zh = "暴烈争斗者的龙皮护肩"},
     ["149573"] = {en = "Fierce Combatant's Dragonhide Belt", zh = "暴烈争斗者的龙皮腰带"},
     ["149574"] = {en = "Loot-Stuffed Pumpkin", zh = "装满战利品的南瓜"},
     ["149575"] = {en = "Fierce Combatant's Dragonhide Belt", zh = "暴烈争斗者的龙皮腰带"},
@@ -1754,7 +1755,7 @@ ItemNames_21 = {
     ["151646"] = {en = "Soul of the High Priest", zh = "大祭司之魂"},
     ["151647"] = {en = "Soul of the Farseer", zh = "先知之魂"},
     ["151648"] = {en = "Engorged Raptor Parts", zh = "浮肿的迅猛龙肉块"},
-    ["151649"] = {en = "Soul of the Netherlord", zh = "虚空之王的灵魂"},
+    ["151649"] = {en = "Soul of the Netherlord", zh = "扭曲虚空之王的灵魂"},
     ["151650"] = {en = "Soul of the Battlelord", zh = "战争领主之魂"},
     ["151651"] = {en = "Gravitational Reduction Slippers", zh = "减重便鞋"},
     ["151652"] = {en = "Wormhole Generator: Argus", zh = "虫洞发生器：阿古斯"},
@@ -4998,5 +4999,4 @@ ItemNames_21 = {
     ["156255"] = {en = "Belt of the Sleeper", zh = "沉睡者腰带"},
     ["156256"] = {en = "Grips of Chaos", zh = "混乱之箍"},
     ["156257"] = {en = "Daschal's Bite", zh = "达斯卡尔之牙"},
-    ["156258"] = {en = "Armbands of Bedlam", zh = "疯乱臂甲"},
 }
