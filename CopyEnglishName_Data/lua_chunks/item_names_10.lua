@@ -3074,6 +3074,7 @@ ItemNames_10 = {
     ["70079"] = {en = "Bloodthirsty Jawbone of Conquest", zh = "嗜血征服颚骨"},
     ["70080"] = {en = "Reforged Heartless", zh = "重铸的无情"},
     ["70099"] = {en = "Cenarion Hatchling", zh = "塞纳里奥角鹰兽宝宝"},
+    ["70104"] = {en = "Empty Purple Brewfest Stein", zh = "空的紫色美酒节酒杯"},
     ["70105"] = {en = "Matoclaw's Band", zh = "麦托克劳之戒"},
     ["70106"] = {en = "Nightweaver's Amulet", zh = "织夜者的护符"},
     ["70107"] = {en = "Fireheart Necklace", zh = "火焰之心项链"},
@@ -4998,5 +4999,4 @@ ItemNames_10 = {
     ["73124"] = {en = "Shadowstalking Idol of Rage", zh = "影行狂暴雕像"},
     ["73125"] = {en = "Shadowstalking Choker", zh = "影行项圈"},
     ["73126"] = {en = "Wildsoul Stone of Wisdom", zh = "野性灵魂智慧之石"},
-    ["73127"] = {en = "Wildsoul Ring of Wisdom", zh = "野性灵魂智慧戒指"},
 }

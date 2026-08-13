@@ -1,4 +1,5 @@
 ItemNames_22 = {
+    ["156257"] = {en = "Daschal's Bite", zh = "达斯卡尔之牙"},
     ["156258"] = {en = "Armbands of Bedlam", zh = "疯乱臂甲"},
     ["156260"] = {en = "Chestplate of Vicious Potency", zh = "堕落力量胸铠"},
     ["156261"] = {en = "Treacherous Shoulderpads", zh = "叛逆肩垫"},
@@ -1289,7 +1290,7 @@ ItemNames_22 = {
     ["158364"] = {en = "High Altitude Turban", zh = "高海拔头巾"},
     ["158366"] = {en = "Charged Sandstone Band", zh = "充能沙石指环"},
     ["158367"] = {en = "Merektha's Fang", zh = "米利克萨之牙"},
-    ["158368"] = {en = "Fangs of Intertwined Essence", zh = "缠结精华之牙"},
+    ["158368"] = {en = "Sethraliss' Defiled Relic", zh = "塞塔里斯的亵渎遗物"},
     ["158369"] = {en = "Galvanized Stormcrusher", zh = "充电破风锤"},
     ["158370"] = {en = "Twin-Strike Polearm", zh = "连击大戟"},
     ["158371"] = {en = "Seabreeze", zh = "海风"},
@@ -4998,5 +4999,4 @@ ItemNames_22 = {
     ["163230"] = {en = "Felbound Tunic", zh = "邪缚外套"},
     ["163231"] = {en = "Felbound Footwraps", zh = "邪缚裹足"},
     ["163232"] = {en = "Felbound Handwraps", zh = "邪缚裹手"},
-    ["163233"] = {en = "Felbound Shroud", zh = "邪缚裹布"},
 }

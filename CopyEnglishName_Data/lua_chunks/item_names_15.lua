@@ -1,4 +1,5 @@
 ItemNames_15 = {
+    ["108683"] = {en = "Miniature Dark Portal", zh = "微缩黑暗之门"},
     ["108728"] = {en = "Legion Key", zh = "燃烧军团钥匙"},
     ["108733"] = {en = "Karab'uun", zh = "卡拉布恩"},
     ["108734"] = {en = "Stolen Axe", zh = "失窃的斧子"},
@@ -1822,7 +1823,7 @@ ItemNames_15 = {
     ["113000"] = {en = "Oozing Amulet", zh = "软泥护符"},
     ["113001"] = {en = "Sparkling Amulet", zh = "闪光护符"},
     ["113002"] = {en = "Ruby Amulet", zh = "红宝石护符"},
-    ["113003"] = {en = "Opal Amulet", zh = "猫眼石护符"},
+    ["113003"] = {en = "Opal Amulet", zh = "欧泊护符"},
     ["113004"] = {en = "Locket of Dreams", zh = "梦境吊坠"},
     ["113005"] = {en = "Chain of Hopes", zh = "希望之链"},
     ["113006"] = {en = "Choker of Nightmares", zh = "梦魇项圈"},
@@ -3142,7 +3143,7 @@ ItemNames_15 = {
     ["114593"] = {en = "Draenic Sorcerer's Mark", zh = "德拉诺巫师印戒"},
     ["114594"] = {en = "Soft-Stream Band", zh = "软流指环"},
     ["114595"] = {en = "Gronn Bone Seal", zh = "戈隆骨戒"},
-    ["114596"] = {en = "Opalescent Tri-Ring", zh = "珠光三重指环"},
+    ["114596"] = {en = "Opalescent Tri-Ring", zh = "乳光三重指环"},
     ["114598"] = {en = "Choker of Crimson Cuts", zh = "猩红切割项圈"},
     ["114599"] = {en = "Scorch-Sear Necklace", zh = "焦灼项链"},
     ["114600"] = {en = "Chain of Misty Vapors", zh = "雾汽项链"},
@@ -4998,5 +4999,4 @@ ItemNames_15 = {
     ["116698"] = {en = "Moonwhisper Ring", zh = "月语者指环"},
     ["116699"] = {en = "Growthshaper Cloak", zh = "造林者斗篷"},
     ["116700"] = {en = "Growthshaper Branch", zh = "造林者枝桠"},
-    ["116701"] = {en = "Growthshaper Ring", zh = "造林者指环"},
 }

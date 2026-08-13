@@ -2,7 +2,7 @@
 ## Title: CopyEnglishName Data
 ## Notes: Data tables for CopyEnglishName addon.
 ## Author: Tindall
-## Version: 2.3
+## Version: 2.4
 ## LoadOnDemand: 1
 ## Dependencies: CopyEnglishName
 ## IconTexture: Interface\AddOns\CopyEnglishName_Data\logo.tga 
@@ -43,3 +43,4 @@ lua_chunks/item_names_32.lua
 lua_chunks/item_names_33.lua
 lua_chunks/item_names_34.lua
 lua_chunks/item_names_35.lua
+lua_chunks/item_names_36.lua

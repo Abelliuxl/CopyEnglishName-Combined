@@ -1,4 +1,5 @@
 ItemNames_13 = {
+    ["92035"] = {en = "Adorned Sceptre", zh = "缀饰权杖"},
     ["92036"] = {en = "Staff of the Monkey King", zh = "猴王节杖"},
     ["92049"] = {en = "Mercenary Contract: Mage", zh = "雇佣合同：法师"},
     ["92050"] = {en = "Mercenary Contract: Paladin", zh = "雇佣合同：圣骑士"},
@@ -4998,5 +4999,4 @@ ItemNames_13 = {
     ["100114"] = {en = "Tyrannical Gladiator's Plate Chestpiece", zh = "暴虐角斗士的板甲护胸"},
     ["100115"] = {en = "Tyrannical Gladiator's Sabatons of Cruelty", zh = "暴虐角斗士的残酷马靴"},
     ["100116"] = {en = "Tyrannical Gladiator's Leather Legguards", zh = "暴虐角斗士的皮甲护腿"},
-    ["100117"] = {en = "Tyrannical Gladiator's Leather Spaulders", zh = "暴虐角斗士的皮甲护肩"},
 }

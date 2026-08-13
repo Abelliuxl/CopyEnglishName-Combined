@@ -1,4 +1,5 @@
 ItemNames_21 = {
+    ["149571"] = {en = "Fierce Combatant's Dragonhide Spaulders", zh = "暴烈争斗者的龙皮护肩"},
     ["149572"] = {en = "Fierce Combatant's Dragonhide Spaulders", zh = "暴烈争斗者的龙皮护肩"},
     ["149573"] = {en = "Fierce Combatant's Dragonhide Belt", zh = "暴烈争斗者的龙皮腰带"},
     ["149574"] = {en = "Loot-Stuffed Pumpkin", zh = "装满战利品的南瓜"},
@@ -4998,5 +4999,4 @@ ItemNames_21 = {
     ["156254"] = {en = "Leggings of the Tortured Earth", zh = "苦痛大地护腿"},
     ["156255"] = {en = "Belt of the Sleeper", zh = "沉睡者腰带"},
     ["156256"] = {en = "Grips of Chaos", zh = "混乱之箍"},
-    ["156257"] = {en = "Daschal's Bite", zh = "达斯卡尔之牙"},
 }

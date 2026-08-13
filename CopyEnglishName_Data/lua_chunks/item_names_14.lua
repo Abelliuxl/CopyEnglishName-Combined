@@ -1,4 +1,5 @@
 ItemNames_14 = {
+    ["100117"] = {en = "Tyrannical Gladiator's Leather Spaulders", zh = "暴虐角斗士的皮甲护肩"},
     ["100118"] = {en = "Tyrannical Gladiator's Plate Legguards", zh = "暴虐角斗士的板甲护腿"},
     ["100119"] = {en = "Tyrannical Gladiator's Cuffs of Prowess", zh = "暴虐角斗士的英勇裹腕"},
     ["100120"] = {en = "Tyrannical Gladiator's Chain Spaulders", zh = "暴虐角斗士的链甲护肩"},
@@ -4918,7 +4919,7 @@ ItemNames_14 = {
     ["108318"] = {en = "Mageroyal Petal", zh = "魔皇草花瓣"},
     ["108319"] = {en = "Earthroot Stem", zh = "地根草茎梗"},
     ["108320"] = {en = "Briarthorn Bramble", zh = "石南草残片"},
-    ["108321"] = {en = "Swiftthistle Leaf", zh = "雨燕草叶片"},
+    ["108321"] = {en = "Swiftthistle Leaf", zh = "迅蓟叶叶片"},
     ["108322"] = {en = "Bruiseweed Stem", zh = "跌打草茎梗"},
     ["108323"] = {en = "Wild Steelbloom Petal", zh = "野钢花瓣"},
     ["108324"] = {en = "Kingsblood Petal", zh = "皇血草花瓣"},
@@ -4998,5 +4999,4 @@ ItemNames_14 = {
     ["108664"] = {en = "Delicious Clefthoof Ribs", zh = "美味的裂蹄牛肋排"},
     ["108665"] = {en = "Iron Tide Brew", zh = "铁潮啤酒"},
     ["108678"] = {en = "Frightened Volen", zh = "惊恐的鼠精"},
-    ["108683"] = {en = "Miniature Dark Portal", zh = "微缩黑暗之门"},
 }

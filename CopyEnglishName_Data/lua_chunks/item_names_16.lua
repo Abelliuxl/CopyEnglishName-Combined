@@ -1,4 +1,5 @@
 ItemNames_16 = {
+    ["116701"] = {en = "Growthshaper Ring", zh = "造林者指环"},
     ["116702"] = {en = "Evermorn Cloak", zh = "永晨斗篷"},
     ["116703"] = {en = "Evermorn Twig", zh = "永晨嫩枝"},
     ["116704"] = {en = "Evermorn Ring", zh = "永晨指环"},
@@ -4998,5 +4999,4 @@ ItemNames_16 = {
     ["124285"] = {en = "Die-Cast Ringmail Sabatons", zh = "压铸环甲马靴"},
     ["124286"] = {en = "Surefooted Chain Treads", zh = "稳健环靴"},
     ["124287"] = {en = "Spiked Throatcrusher Boots", zh = "割喉者钉鞋"},
-    ["124288"] = {en = "Unhallowed Voidlink Boots", zh = "虚空邪链长靴"},
 }

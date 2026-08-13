@@ -1,4 +1,5 @@
 ItemNames_11 = {
+    ["73127"] = {en = "Wildsoul Ring of Wisdom", zh = "野性灵魂智慧戒指"},
     ["73128"] = {en = "Wildsoul Band of Wisdom", zh = "野性灵魂智慧指环"},
     ["73129"] = {en = "Wildsoul Idol of Wisdom", zh = "野性灵魂智慧雕像"},
     ["73130"] = {en = "Wildsoul Necklace", zh = "野性灵魂项链"},
@@ -1236,7 +1237,7 @@ ItemNames_11 = {
     ["77085"] = {en = "Unexpected Backup", zh = "意外的支援"},
     ["77086"] = {en = "Windslicer Boomerang", zh = "破风回旋镖"},
     ["77087"] = {en = "Darting Chakram", zh = "疾速飞轮"},
-    ["77088"] = {en = "Opal of the Secret Order", zh = "秘教的猫眼项链"},
+    ["77088"] = {en = "Opal of the Secret Order", zh = "秘教的欧泊项链"},
     ["77089"] = {en = "Threadlinked Chain", zh = "牵机项链"},
     ["77090"] = {en = "Necklace of Black Dragon's Teeth", zh = "黑龙之牙项圈"},
     ["77091"] = {en = "Cameo of Terrible Memories", zh = "不堪回首垂饰"},
@@ -2340,7 +2341,7 @@ ItemNames_11 = {
     ["78621"] = {en = "Glowing Wings of Hope", zh = "希望炽翼"},
     ["78622"] = {en = "Cameo of Terrible Memories", zh = "不堪回首垂饰"},
     ["78623"] = {en = "Guardspike Choker", zh = "守护之刺项链"},
-    ["78624"] = {en = "Opal of the Secret Order", zh = "秘教的猫眼项链"},
+    ["78624"] = {en = "Opal of the Secret Order", zh = "秘教的欧泊项链"},
     ["78625"] = {en = "Necklace of Black Dragon's Teeth", zh = "黑龙之牙项圈"},
     ["78626"] = {en = "Threadlinked Chain", zh = "牵机项链"},
     ["78629"] = {en = "Gutripper Shard", zh = "断肠碎片"},
@@ -3064,7 +3065,7 @@ ItemNames_11 = {
     ["80901"] = {en = "Sudsy Legplates", zh = "泡沫腿铠"},
     ["80902"] = {en = "Uncasked Chestguard", zh = "碎桶胸甲"},
     ["80903"] = {en = "Fermenting Belt", zh = "酵酿腰带"},
-    ["80907"] = {en = "Opalescent Blue Crab Shell", zh = "虹光蓝色蟹壳"},
+    ["80907"] = {en = "Opalescent Blue Crab Shell", zh = "乳光蓝色蟹壳"},
     ["80908"] = {en = "Sparkbreath Girdle", zh = "火息束腰"},
     ["80909"] = {en = "Azure Serpent Chestguard", zh = "碧空翔龙胸甲"},
     ["80910"] = {en = "Leggings of the Charging Soul", zh = "充能之魂护腿"},
@@ -4998,5 +4999,4 @@ ItemNames_11 = {
     ["84033"] = {en = "Ghost Fox Belt", zh = "鬼狐腰带"},
     ["84034"] = {en = "Wind-Reaver Waistguard", zh = "掠风腰链"},
     ["84035"] = {en = "Bladesworn Girdle", zh = "刃誓腰带"},
-    ["84036"] = {en = "Coldbite Girdle", zh = "寒噬腰带"},
 }

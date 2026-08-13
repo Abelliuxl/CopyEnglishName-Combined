@@ -1,4 +1,5 @@
 ItemNames_24 = {
+    ["170001"] = {en = "Seized Engine", zh = "查封的引擎"},
     ["170002"] = {en = "Split Differential", zh = "分叉的差速齿轮"},
     ["170003"] = {en = "Grinding Gearbox", zh = "刺耳的变速箱"},
     ["170004"] = {en = "Cracked Turbo", zh = "裂口的涡轮"},
@@ -950,7 +951,6 @@ ItemNames_24 = {
     ["171274"] = {en = "Potion of Spectral Stamina", zh = "幽魂耐力药水"},
     ["171275"] = {en = "Potion of Spectral Strength", zh = "幽魂力量药水"},
     ["171276"] = {en = "Spectral Flask of Power", zh = "幽魂强能合剂"},
-    ["171277"] = {en = "[DNT] Spiritual Intellect Flask", zh = "[DNT] Spiritual Intellect Flask"},
     ["171278"] = {en = "Spectral Flask of Stamina", zh = "幽魂耐力合剂"},
     ["171279"] = {en = "[DNT] Spiritual Strength Flask", zh = "[DNT] Spiritual Strength Flask"},
     ["171280"] = {en = "Eternal Flask", zh = "永恒合剂"},

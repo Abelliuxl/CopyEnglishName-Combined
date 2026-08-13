@@ -2213,7 +2213,7 @@ ItemNames_27 = {
     ["195485"] = {en = "Councilor's Terrormask", zh = "议员的魔惧假面"},
     ["195486"] = {en = "Twisted Loam Spaulders", zh = "扭曲壤土护肩"},
     ["195487"] = {en = "Embar's Ashen Hauberk", zh = "恩巴尔的化烬躯甲"},
-    ["195488"] = {en = "Opalfang's Earthbound Legguards", zh = "乳石之牙的地缚护腿"},
+    ["195488"] = {en = "Opalfang's Earthbound Legguards", zh = "欧泊之牙的地缚护腿"},
     ["195489"] = {en = "Maul of the Earthshaper", zh = "塑地者之锤"},
     ["195490"] = {en = "Searing Blazecaster", zh = "灼光送葬者"},
     ["195491"] = {en = "Infused Stormglaives", zh = "注能雷刃"},

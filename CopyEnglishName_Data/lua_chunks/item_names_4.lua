@@ -1560,7 +1560,7 @@ ItemNames_4 = {
     ["25056"] = {en = "Almandine Ring", zh = "紫榴指环"},
     ["25057"] = {en = "Amber Band", zh = "琥珀指环"},
     ["25058"] = {en = "Anglesite Choker", zh = "铅矾项链"},
-    ["25059"] = {en = "Fire Opal Collar", zh = "火白石项圈"},
+    ["25059"] = {en = "Fire Opal Collar", zh = "火焰欧泊项圈"},
     ["25060"] = {en = "Sunstone Necklace", zh = "阳石项链"},
     ["25061"] = {en = "Hiddenite Necklace", zh = "翠石项链"},
     ["25062"] = {en = "Zircon Amulet", zh = "锆石项链"},

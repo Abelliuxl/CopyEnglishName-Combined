@@ -3686,7 +3686,7 @@ ItemNames_28 = {
     ["205798"] = {en = "Pauldrons of the Onyx Crucible", zh = "缟玛瑙熔炉肩铠"},
     ["205799"] = {en = "Legplates of the Onyx Crucible", zh = "缟玛瑙熔炉腿铠"},
     ["205800"] = {en = "Thraexhelm of the Onyx Crucible", zh = "缟玛瑙熔炉角斗之盔"},
-    ["205801"] = {en = "Handguards  of the Onyx Crucible", zh = "缟玛瑙熔炉护手"},
+    ["205801"] = {en = "Handguards of the Onyx Crucible", zh = "缟玛瑙熔炉护手"},
     ["205802"] = {en = "Battlechest of the Onyx Crucible", zh = "缟玛瑙熔炉战争胸甲"},
     ["205803"] = {en = "Heartfire Sentinel's Steelwings", zh = "心火哨兵的钢翼"},
     ["205804"] = {en = "Heartfire Sentinel's Faulds", zh = "心火哨兵的腿铠"},
