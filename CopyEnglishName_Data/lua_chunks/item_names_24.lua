@@ -2478,7 +2478,7 @@ ItemNames_24 = {
     ["173256"] = {en = "Tailoring Reagent 07", zh = "裁缝材料07"},
     ["173257"] = {en = "Tailoring Reagent 08", zh = "裁缝材料08"},
     ["173266"] = {en = "Ritual Vestments", zh = "仪式法衣"},
-    ["173267"] = {en = "Crystalized Gormgris", zh = "晶化戈姆胶"},
+    ["173267"] = {en = "Crystallized Gormgris", zh = "晶化戈姆胶"},
     ["173268"] = {en = "Fresh Gorm Gris", zh = "新鲜的戈姆胶"},
     ["173269"] = {en = "Training Gem", zh = "训练宝石"},
     ["173270"] = {en = "Toc's Bag of Parts", zh = "托克的一包部件"},

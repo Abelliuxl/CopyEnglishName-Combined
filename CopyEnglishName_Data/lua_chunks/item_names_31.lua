@@ -1,5 +1,4 @@
 ItemNames_31 = {
-    ["222888"] = {en = "Weavercloth Spellthread", zh = "梭绸布魔线"},
     ["222889"] = {en = "Weavercloth Spellthread", zh = "梭绸布魔线"},
     ["222890"] = {en = "Weavercloth Spellthread", zh = "梭绸布魔线"},
     ["222891"] = {en = "Sunset Spellthread", zh = "夕阳魔线"},
@@ -4999,4 +4998,5 @@ ItemNames_31 = {
     ["230951"] = {en = "Ensemble: Obsidian Aspirant's Cloth Armor", zh = "套装：黑曜候选者的布甲"},
     ["230952"] = {en = "Ensemble: Obsidian Aspirant's Leather Armor", zh = "套装：黑曜候选者的皮甲"},
     ["230953"] = {en = "Ensemble: Obsidian Aspirant's Mail Armor", zh = "套装：黑曜候选者的锁甲"},
+    ["230954"] = {en = "Ensemble: Obsidian Aspirant's Plate Armor", zh = "套装：黑曜候选者的板甲"},
 }

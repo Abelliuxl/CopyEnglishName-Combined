@@ -1808,7 +1808,7 @@ ItemNames_19 = {
     ["140075"] = {en = "Petrified Ancient Bark", zh = "远古石化树皮"},
     ["140076"] = {en = "Felborne Energist's Gem", zh = "邪脉勤勉者宝石"},
     ["140077"] = {en = "Goldleaf Arcwine Phial", zh = "金叶魔力酒瓶"},
-    ["140078"] = {en = "Crystalized Leypetal", zh = "晶化魔力花瓣"},
+    ["140078"] = {en = "Crystallized Leypetal", zh = "晶化魔力花瓣"},
     ["140079"] = {en = "Stormforged Fist", zh = "雷铸之拳"},
     ["140080"] = {en = "Everchill Pearl", zh = "永冻之珠"},
     ["140086"] = {en = "Intact Infernal Palm", zh = "完整的地狱火之掌"},

@@ -1243,7 +1243,7 @@ ItemNames_16 = {
     ["118085"] = {en = "Admiral Taylor's Staff of Wisdom", zh = "海军上将泰勒的智慧法杖"},
     ["118086"] = {en = "Admiral Taylor's Keg Tapper", zh = "海军上将泰勒的开桶锤"},
     ["118087"] = {en = "\"Super Sterilized\" Blastguard Legplates", zh = "“超级杀菌”防爆腿甲"},
-    ["118088"] = {en = "\"Super Sterlized\" Blastguard Legwraps", zh = "“超级杀菌”防爆裹腿"},
+    ["118088"] = {en = "\"Super Sterilized\" Blastguard Legwraps", zh = "“超级杀菌”防爆裹腿"},
     ["118089"] = {en = "\"Super Sterilized\" Blastguard Leggings", zh = "“超级杀菌”防爆护腿"},
     ["118090"] = {en = "\"Super Sterilized\" Blastguard Britches", zh = "“超级杀菌”防爆马裤"},
     ["118093"] = {en = "Dented Ashmaul Strongbox", zh = "损坏的灰槌保险箱"},

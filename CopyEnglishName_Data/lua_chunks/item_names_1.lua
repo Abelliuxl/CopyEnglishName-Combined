@@ -3481,7 +3481,7 @@ ItemNames_1 = {
     ["5665"] = {en = "Horn of the Dire Wolf", zh = "恐狼号角"},
     ["5668"] = {en = "Horn of the Brown Wolf", zh = "棕狼号角"},
     ["5669"] = {en = "Dust Devil Debris", zh = "尘魔的残骸"},
-    ["5675"] = {en = "Crystalized Scales", zh = "水晶鳞片"},
+    ["5675"] = {en = "Crystallized Scales", zh = "水晶鳞片"},
     ["5681"] = {en = "Corrosive Sap", zh = "腐蚀性的汁液"},
     ["5686"] = {en = "Ordanus' Head", zh = "奥达努斯的徽记"},
     ["5687"] = {en = "Gatekeeper's Key", zh = "看门人的钥匙"},

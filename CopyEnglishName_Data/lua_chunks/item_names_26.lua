@@ -2608,7 +2608,6 @@ ItemNames_26 = {
     ["187909"] = {en = "Unstable Containment Trap", zh = "不稳定的压制陷阱"},
     ["187911"] = {en = "Sable \"Soup\"", zh = "玄黑色的“汤”"},
     ["187913"] = {en = "Apprentice Slimemancer's Boots", zh = "软泥师学徒之靴"},
-    ["187914"] = {en = "Captain Noteo's Unused Eye Patch", zh = "诺泰奥船长的闲置眼罩"},
     ["187915"] = {en = "Pungent Blobfish", zh = "刺鼻的团豚"},
     ["187916"] = {en = "Coilclutch Vine", zh = "旋握藤蔓"},
     ["187917"] = {en = "The Mad Duke's Tea", zh = "癫狂公爵之茶"},
@@ -4999,4 +4998,5 @@ ItemNames_26 = {
     ["191621"] = {en = "Fireplume Insignia", zh = "火羽腰饰"},
     ["191622"] = {en = "Fireplume Talons", zh = "火羽足垫"},
     ["191623"] = {en = "Unstable Frostfire Belt", zh = "不稳定的霜火腰带"},
+    ["191625"] = {en = "Lavaforge Monolith", zh = "熔铸锤杖"},
 }

@@ -1116,7 +1116,7 @@ ItemNames_9 = {
     ["57409"] = {en = "Valoren's Shrinkage Totem", zh = "瓦罗伦的收缩图腾"},
     ["57412"] = {en = "Boom Boots", zh = "浮升之靴"},
     ["57415"] = {en = "Stardust Belt", zh = "星尘束带"},
-    ["57416"] = {en = "Hippogryph Down Belt", zh = "角鹰兽低腰束带"},
+    ["57416"] = {en = "Hippogryph Down Belt", zh = "角鹰兽绒羽束带"},
     ["57417"] = {en = "Clear Path Boots", zh = "清路之靴"},
     ["57418"] = {en = "Stonetalon Defender's Staff", zh = "石爪防卫者之杖"},
     ["57419"] = {en = "Wand of Bought Time", zh = "分秒必争之杖"},

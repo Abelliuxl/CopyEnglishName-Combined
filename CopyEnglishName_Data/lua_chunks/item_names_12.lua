@@ -1271,7 +1271,7 @@ ItemNames_12 = {
     ["86122"] = {en = "Plankwalking Greaves", zh = "位面穿行护胫"},
     ["86123"] = {en = "Seafarer's Sturdy Boots", zh = "海员的坚定之靴"},
     ["86124"] = {en = "Pandaren Fishing Spear", zh = "熊猫人鱼叉"},
-    ["86125"] = {en = "Kafa Press", zh = "咔啡压榨机"},
+    ["86125"] = {en = "Kafa Press", zh = "咔啡压滤壶"},
     ["86127"] = {en = "Bracers of Dark Thoughts", zh = "暗思护腕"},
     ["86128"] = {en = "Undying Shadow Grips", zh = "不灭阴影之握"},
     ["86129"] = {en = "Hood of Blind Eyes", zh = "盲眼兜帽"},

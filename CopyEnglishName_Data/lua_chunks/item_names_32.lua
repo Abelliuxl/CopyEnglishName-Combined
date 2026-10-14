@@ -1,5 +1,4 @@
 ItemNames_32 = {
-    ["230954"] = {en = "Ensemble: Obsidian Aspirant's Plate Armor", zh = "套装：黑曜候选者的板甲"},
     ["230955"] = {en = "Ensemble: Obsidian Gladiator's Death Knight Armor", zh = "套装：黑曜角斗士的死亡骑士护甲"},
     ["230956"] = {en = "Ensemble: Obsidian Gladiator's Demon Hunter Armor", zh = "套装：黑曜角斗士的恶魔猎手护甲"},
     ["230957"] = {en = "Ensemble: Obsidian Gladiator's Druid Armor", zh = "套装：黑曜角斗士的德鲁伊护甲"},
@@ -4999,4 +4998,5 @@ ItemNames_32 = {
     ["240302"] = {en = "Leggings of Devouring Night", zh = "吞噬黑夜护腿"},
     ["240303"] = {en = "Waistband of Devouring Night", zh = "吞噬黑夜腰带"},
     ["240304"] = {en = "Haubergeon of Devouring Night", zh = "吞噬黑夜胸甲"},
+    ["240305"] = {en = "Spaulders of Devouring Night", zh = "吞噬黑夜肩甲"},
 }

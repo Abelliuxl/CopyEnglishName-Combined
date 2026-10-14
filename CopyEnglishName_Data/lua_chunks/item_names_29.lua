@@ -1,5 +1,4 @@
 ItemNames_29 = {
-    ["207946"] = {en = "Reality-Warping Waistband", zh = "现实扭曲腰带"},
     ["207950"] = {en = "Marbled Oathstone Greatboots", zh = "白皙誓言石重靴"},
     ["207951"] = {en = "Displaced Trooper's Gauntlets", zh = "彷徨步兵的护手"},
     ["207956"] = {en = "Thunderspine Nest", zh = "雷背巢"},
@@ -4999,4 +4998,5 @@ ItemNames_29 = {
     ["214891"] = {en = "White Tiger Warboots", zh = "白虎战争之靴"},
     ["214892"] = {en = "White Tiger Greathelm", zh = "白虎重盔"},
     ["214893"] = {en = "White Tiger Handguards", zh = "白虎手铠"},
+    ["214894"] = {en = "White Tiger Greatbelt", zh = "白虎重型腰带"},
 }

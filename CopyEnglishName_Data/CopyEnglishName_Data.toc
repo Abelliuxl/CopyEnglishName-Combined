@@ -2,7 +2,7 @@
 ## Title: CopyEnglishName Data
 ## Notes: Data tables for CopyEnglishName addon.
 ## Author: Tindall
-## Version: 2.4
+## Version: 2.5
 ## LoadOnDemand: 1
 ## Dependencies: CopyEnglishName
 ## IconTexture: Interface\AddOns\CopyEnglishName_Data\logo.tga 

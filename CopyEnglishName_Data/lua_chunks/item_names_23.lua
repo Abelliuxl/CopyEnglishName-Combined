@@ -4517,7 +4517,7 @@ ItemNames_23 = {
     ["169443"] = {en = "Shadowmoon Schnapps", zh = "影月杜松子酒"},
     ["169444"] = {en = "Creature Compendium: Zanj'ir Naga", zh = "生物大典：赞齐尔纳迦"},
     ["169445"] = {en = "Dredged Leather Bladder", zh = "浚皮囊袋"},
-    ["169446"] = {en = "Water Filled Bladder", zh = "充水囊袋"},
+    ["169446"] = {en = "Water-Filled Bladder", zh = "充水囊袋"},
     ["169447"] = {en = "Air Filled Bladder", zh = "充气囊袋"},
     ["169448"] = {en = "Bottomless Brewfest Stein", zh = "无尽美酒节酒杯"},
     ["169449"] = {en = "Mecha-Bytes", zh = "机甲点心"},

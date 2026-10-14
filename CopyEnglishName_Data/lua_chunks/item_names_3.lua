@@ -2286,7 +2286,7 @@ ItemNames_3 = {
     ["19957"] = {en = "Hazza'rah's Charm of Destruction", zh = "哈扎拉尔的毁灭护符"},
     ["19958"] = {en = "Hazza'rah's Charm of Healing", zh = "哈扎拉尔的治疗护符"},
     ["19959"] = {en = "Hazza'rah's Charm of Magic", zh = "哈扎拉尔的魔法护符"},
-    ["19960"] = {en = "Crystalized Honey", zh = "蜂蜜晶体"},
+    ["19960"] = {en = "Crystallized Honey", zh = "蜂蜜晶体"},
     ["19961"] = {en = "Gri'lek's Grinder", zh = "格里雷克的磨具"},
     ["19962"] = {en = "Gri'lek's Carver", zh = "格里雷克的刻刀"},
     ["19963"] = {en = "Pitchfork of Madness", zh = "疯狂草叉"},
